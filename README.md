@@ -16,8 +16,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-# 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DewanggaNugrohoA&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false"/>
 </p>
@@ -29,5 +27,3 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DewanggaNugrohoA&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
